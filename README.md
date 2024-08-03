@@ -11,7 +11,6 @@ You can view my portfolio at [https://noman-alam.github.io](https://noman-alam.g
 - HTML5
 - CSS3
 - JavaScript
-- [Add any frameworks or libraries you've used, e.g., React, Bootstrap, etc.]
 
 ## 🗂️ Project Structure
 
@@ -19,7 +18,6 @@ You can view my portfolio at [https://noman-alam.github.io](https://noman-alam.g
 - `css/`: Directory containing CSS files
 - `js/`: Directory containing JavaScript files
 - `images/`: Directory containing images used in the portfolio
-- [Add any other important directories or files]
 
 ## 🚀 Features
 
@@ -27,7 +25,6 @@ You can view my portfolio at [https://noman-alam.github.io](https://noman-alam.g
 - Project showcase with descriptions and links
 - Skills section highlighting my technical expertise
 - Contact form for easy communication
-- [Add any other notable features of your portfolio]
 
 ## 🖥️ Local Development
 
