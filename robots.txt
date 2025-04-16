@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /
-
-User-agent: *
-Disallow:
-
-Sitemap: https://noman-alam.github.io/sitemap.xml
