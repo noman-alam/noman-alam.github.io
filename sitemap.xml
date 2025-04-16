@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://noman-alam.github.io/</loc>
-  <lastmod>2025-04-14T18:33:59+00:00</lastmod>
-</url>
-
-
+<!-- Sitemap for Noman Alam's Portfolio Website -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage/Profile Section -->
+  <url>
+    <loc>https://nomanalam.com/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <!-- About Section -->
+  <url>
+    <loc>https://nomanalam.com/#about</loc>
+    <lastmod>2024-01-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <!-- Experience Section -->
+  <url>
+    <loc>https://nomanalam.com/#experience</loc>
+    <lastmod>2024-01-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <!-- Projects Section -->
+  <url>
+    <loc>https://nomanalam.com/#projects</loc>
+    <lastmod>2024-01-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <!-- Contact Section -->
+  <url>
+    <loc>https://nomanalam.com/#contact</loc>
+    <lastmod>2024-01-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <!-- Resume PDF -->
+  <url>
+    <loc>https://nomanalam.com/assets/Resume.pdf</loc>
+    <lastmod>2024-01-01</lastmod>
+    <priority>0.5</priority>
+  </url>
 </urlset>
