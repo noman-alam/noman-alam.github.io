@@ -1,58 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Homepage -->
+
   <url>
     <loc>https://noman-alam.github.io/</loc>
-    <lastmod>2024-04-16</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2024-04-16</lastmod> <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-  
-  <!-- About Section -->
-  <url>
-    <loc>https://noman-alam.github.io/#about</loc>
-    <lastmod>2024-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Experience Section -->
-  <url>
-    <loc>https://noman-alam.github.io/#experience</loc>
-    <lastmod>2024-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Projects Section -->
-  <url>
-    <loc>https://noman-alam.github.io/#projects</loc>
-    <lastmod>2024-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Contact Section -->
-  <url>
-    <loc>https://noman-alam.github.io/#contact</loc>
-    <lastmod>2024-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Resume Download -->
+
   <url>
     <loc>https://noman-alam.github.io/assets/Resume.pdf</loc>
-    <lastmod>2024-04-16</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2024-04-16</lastmod> <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-  
-  <!-- Sitemap HTML Page -->
+
   <url>
     <loc>https://noman-alam.github.io/sitemap.html</loc>
-    <lastmod>2024-04-16</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2024-04-16</lastmod> <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
+
 </urlset>
